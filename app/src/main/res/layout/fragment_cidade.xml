@@ -1,0 +1,52 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    android:orientation="vertical"
+    tools:context=".CidadeFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/nomeCidade"
+            style="@style/Custom_txt_view"
+            android:layout_marginTop="24dp"
+            android:text="@string/nomeCidade"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#00E676" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:padding="24dp"
+            android:text="@string/descricao_cidade"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp" />
+
+        <TextView
+            style="@style/Custom_txt_view"
+            android:layout_gravity="center"
+            android:layout_marginTop="250dp"
+            android:fontFamily="sans-serif-light"
+            android:text="@string/comoChegar"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/cliqueAqui_txt"
+            style="@style/Custom_txt_view"
+            android:layout_gravity="center"
+            android:layout_marginTop="300dp"
+            android:background="@drawable/back"
+            android:text="@string/cliqueAqui"
+            android:textColor="#FFFFFF"
+            android:textSize="14sp" />
+
+    </RelativeLayout>
+</ScrollView>

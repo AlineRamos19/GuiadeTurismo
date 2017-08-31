@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:drawSelectorOnTop="true"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:id="@+id/image"
+        android:layout_marginTop="16dp"
+        android:layout_centerHorizontal="true"
+        />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/container_txt"
+        android:orientation="vertical"
+        android:layout_below="@+id/image"
+        android:layout_marginRight="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_alignParentRight="true"
+
+       >
+
+        <TextView
+            android:id="@+id/titulo_lugar_cidade"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:fontFamily="sans-serif-light"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:textColor="#2E7D32"
+            android:text="Lugar"/>
+
+        <TextView
+            android:id="@+id/txt_descricao_lugar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:fontFamily="sans-serif-light"
+            android:gravity="top"
+            android:paddingBottom="24dp"
+            android:textSize="15sp"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="@android:color/black"
+            tools:text="Descricao" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

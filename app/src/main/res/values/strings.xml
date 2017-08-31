@@ -1,0 +1,200 @@
+<resources>
+    <string name="app_name">Guia de Turismo</string>
+
+    <string name="nomeCidade">Mogi das Cruzes</string>
+    <string name="cliqueAqui">Clique aqui</string>
+    <string name="comoChegar">Como chegar?</string>
+
+    <string name="descricao_cidade">
+        Localizado a 48km do litoral, Mogi das Cruzes é o maior e mais desenvolvido
+        município da Região do Alto Tietê.
+        Cortado por duas serras: a Serra do Mar e a Serra do Itapety e também
+        pelo Rio Tietê.
+        Está situada na região leste da Grande São Paulo, com aproximadamente 700 mil habitantes.
+    </string>
+
+    <!-- String Pontos HistoricoFragment -->
+    <string name="titulo_turismo_um">Catedral Sant\'Anna</string>
+    <string name="titulo_turismo_dois">Theatro Vasques</string>
+    <string name="titulo_turismo_tres">Pico do Urubu</string>
+    <string name="titulo_turismo_quatro">Casarão do Carmo</string>
+    <string name="titulo_turismo_cinco">Museu Professora Guiomar</string>
+    
+    <string name="descricao_turismo_um">
+        Conhecida também como a Igreja Matriz, construída no mesmo local, onde foi erguida
+        a primeira capela do povoamento, e em 1900 foi eregida uma igreja destinada a
+        Padroeira Nossa Senhora de Sant\'Anna, é atualmente a sede da diocese de Mogi das Cruzes,
+        eleita em 1962, pelo Papa João XXIII.
+    </string>
+
+     <string name="descricao_turismo_dois">
+         Localizado no Centro Histórico junto ao Largo do Carmo, o Theatro Vasques foi inaugurado
+         em 1902, como uma casa de espetáculos própria para operetas e teatro de revista.
+         O projeto origial do edifício, cenografia, pintura e distribuição interna, inclusive os
+         camarins, foram confiados ao ator Roque de Castillhos, ex-aluno da Escola Politécnica
+         do Rio de Janeiro.
+         O teatro foi fechado pelo Estado Novo na década de 30, e reaberto em 1948 para abrigar
+         a Câmara Municipal. Em 1980 o teatro é reformado e reinaugurado como Teatro Municipal
+         Paschoal Carlos Magno. Após reforma em 2002, voltou a chamar-se Theatro Vasques.
+    </string>
+
+     <string name="descricao_turismo_tres">
+         O Pico do Urubu está localizado em um ponto culminante da Serra do Itapety, é um dos
+         responsáveis pela atração de turistas ao município por oferecer a prática de vôo livre
+         o ano todo. Sua rampa é freqüentada por praticantes de vôo livre como parapente,
+         paraglider e asa-delta, durante todo ano, mas principalmente no inverno.
+         Ciclistas também costumam acessar a rampa para observar a bela paisagem e depois descer
+         o desnível de 370 metros em relação ao marco zero da cidade.Em seu cume tem se uma
+         visão de 360°.
+    </string>
+
+     <string name="descricao_turismo_quatro">
+        Construção do século XIX, em Estilo Colonial, de taipa de pilão e taipa de mão, foi
+         construído para servir de residência a importante família Bourroul. O espaço tem
+         acessibilidade a pessoas com mobilidade reduzida, abriga o Museu Visconde de Mauá, e
+         oferece a Sala Clarice Jorge para  apresentações artísticas, exibição de filmes e
+         encontros culturais.O Casarão conta ainda com um auditório com capacidade para receber
+         45 pessoas.
+    </string>
+
+    <string name="descricao_turismo_cinco">
+        Construído em taipa de pilão, na segunda metade do século XVIII, no Centro Histórico,
+        pertence à tradicional Família Pinheiro Franco há várias gerações.
+        Já no século XX, o pavimento térreo passou a ter também a finalidade de residência.
+        Aqui viveram a professora Guiomar Pinheiro Franco Lapin, uma das grandes educadoras de
+        Mogi das Cruzes e responsável pela vinda à cidade da Rede Feminina de Combate ao Câncer,
+        e também seu irmão Fernando, que, aos 20 anos, tombou em combate, como voluntário na
+        Revolução Constitucionalista de 1932.
+        Criado em 2001, o Museu Guiomar Pinheiro Franco é uma parte da História da cidade,
+        ainda presente nos dias de hoje.
+    </string>
+
+    <!--String LazerFragment-->
+    <string name="titulo_lazer_um">Parque Centenário</string>
+    <string name="titulo_lazer_dois">Parque Leon Feffer</string>
+    <string name="titulo_lazer_tres">Parque da Cidade</string>
+    <string name="titulo_lazer_quatro">Shopping Center</string>
+
+    <string name="descricao_lazer_um">
+        Em meados de 2007, foi idealizado um parque homenageando o centenário da imigração
+        japonesa e, em 28 de junho de 2008, foi inaugurado o Parque Centenário. Com 21,5 hectares,
+        sua área inclui quatro lagos com pontes flutuantes em estilo oriental, a praça do Imigrante,
+        espaço Bom Odori–Samba, Posto de Informações Turísticas, locação de Stand Up Paddle,
+        outros.
+        O parque está inserido na Área de Proteção Ambiental da Várzea do Rio Tietê.
+        Em alguns trechos das margens do rio foram plantadas mudas nativas visando restaurar a
+        mata ciliar existente.
+    </string>
+
+    <string name="descricao_lazer_dois">
+         Inaugurado em 2004, o parque está inserido na Área de Proteção Ambiental da Várzea do Rio
+         Tietê.  Foi recuperado com o plantio de 6 mil mudas, recebendo também a implantação de
+         áreas de lazer, quadras esportivas e uma trilha ao longo da faixa de preservação permanente do
+         rio. Possui uma rica vegetação que margeia o Rio Tietê e sua fauna inclui espécies de aves,
+         capivaras e ratão-do-banhado.
+         O Parque localiza-se no distrito de Braz Cubas e conta também com equipamentos para
+         atividades físicas e artísticas. São quiosques, campo de futebol, campo de futebol de
+         areia, quadras poliesportivas, quadras de voleibol, pista de skate, playgrounds, lago e
+        trilha para caminhada.
+    </string>
+
+    <string name="descricao_lazer_tres">
+          O Parque da Cidade fica no Alto do Ipiranga e tem 85 mil metros quadrados para a prática
+          de esportes, atividades culturais e de lazer.
+          Além de ter toda uma infraestrutura para lazer e esportes, com churrasqueira, quadras,
+          áreas para crianças e idosos, o local conta ainda com um bosque, orquidário e arena para
+          atividades culturais.
+    </string>
+
+    <string name="descricao_lazer_quatro">
+          Inaugurado em 20 de novembro de 1991, localizado no município de Mogi das Cruzes, no
+          bairro do Socorro, uma região privilegiada e em crescente expansão imobiliária, o Mogi
+          Shopping está consolidado por duas décadas de história e desempenha um papel essencial
+          na vida da comunidade mogiana.
+          O empreendimento é composto por 202 lojas distribuídas em 34.095 metros, oferecendo
+          variadas opções de compras, serviços e lazer.
+    </string>
+
+    <!--String AlimentacaoFragment-->
+    <string name="titulo_alimentacao_um">Spock Burguer</string>
+    <string name="titulo_alimentacao_dois">Djapa</string>
+    <string name="titulo_alimentacao_tres">O Berro</string>
+    <string name="titulo_alimentacao_quatro">Rancho da Traíra</string>
+    <string name="titulo_alimentacao_cinco">Terracota</string>
+    <string name="titulo_alimentacao_seis">Pizzaria Paulista </string>
+
+    <string name="descricao_alimentacao_um">
+          Com opções de lanches, bebidas e porcões, Spock Burguer é um excelente lugar para uma
+          parada rápida na hora da fome.
+          Aberto todos os dias das 18h as 23h30.
+    </string>
+
+    <string name="descricao_alimentacao_dois">
+          O Djapa oferece um espaço reservado e aconchegante para reuniões, confraternizações e
+          eventos. Pessoas descontraídas, à vontade e bem servidas. Possuem a estrutura ideal para
+          um almoço ou jantar em um restaurante japonês.
+    </string>
+
+     <string name="descricao_alimentacao_tres">
+          O Restaurante O Berro é um fenômeno da história da cidade de Mogi das Cruzes.
+          Há mais de 30 anos atendendo com qualidade em um ambiente de bom gosto onde desfilam
+          profissionais liberais e famílias.
+          Restaurante de menu seleto e diversificado com grelhados de carnes, aves e peixes, com
+          guarnições e vinho.
+    </string>
+
+    <string name="descricao_alimentacao_quatro">
+          O Rancho da Traíra é um dos lugares mais freqüentados de Mogi das Cruzes.
+          A traíra servida no Rancho é apreciada por pessoas da cidade, de várias regiões do Brasil
+          e até de outros países.
+          O restaurante oferece peixes de rio, com foco nas traíras, em ambiente simples e atmosfera
+          familiar.
+    </string>
+
+    <string name="descricao_alimentacao_cinco">
+         No Terracota você pode se deliciar com a nossa variedade de opções em um ambiente
+         harmonioso e convidativo.
+         No piso térreo do Terracota você encontra um aconchegante restaurante oriental e, logo ao
+         lado, uma charmosa hamburgeria, subindo um andar, o tradicional buffet self-service
+         e no último andar um espaço reservado para realização de eventos.
+    </string>
+
+     <string name="descricao_alimentacao_seis">
+         Choperia casual para 400 pessoas com ampla variedade de opções, de pizzas a carnes,
+         comida chinesa e lanches.
+         Grande ponto de Mogi, com música ao vivo de quinta-feira à domingo.
+    </string>
+
+    <!--String SaudeFragment-->
+    <string name="titulo_saude_um">Hospital e Maternidade Santana</string>
+    <string name="titulo_saude_dois">Hospital Ipiranga</string>
+    <string name="titulo_saude_tres">Hospital Municipal</string>
+    <string name="titulo_saude_quatro">Santa Casa de Misericódia</string>
+    <string name="titulo_saude_cinco">Hospital Luzia de Pinho Melo</string>
+
+    <string name="descricao_saude_um">
+            Rua: Dr. Osmar Marinho Couto, 71 - Centro
+        (11) 4723-4000
+    </string>
+
+    <string name="descricao_saude_dois">
+         Rua. Ipiranga, 797 - Jd. Santista
+        (11) 4795-8600
+    </string>
+
+    <string name="descricao_saude_tres">
+        Rua: Ipiranga, 797 - Jd. Santista
+        (11) 4795-8600
+    </string>
+
+    <string name="descricao_saude_quatro">
+        Rua: Barão de Jaceguai, 1148 Centro
+        (11) 4728-4700
+    </string>
+
+    <string name="descricao_saude_cinco">
+         Rua: Manoel de Oliveira, S/N - Vila Mogilar
+        (11) 3583-2800
+    </string>
+
+</resources>
